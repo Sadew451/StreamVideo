@@ -24,7 +24,7 @@
 - pip3 install --upgrade pip
 - pip3 install -U -r requirements.txt
 - sudo nano config.py #Fill it with your variables value.
-- python3 -m Natsuki
+- python3 -m Bot
 ```
 
 🔥 Setting Up 🔥
