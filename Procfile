@@ -1,1 +1,1 @@
-worker: python3 -m Natsuki
+worker: python3 -m Bot
