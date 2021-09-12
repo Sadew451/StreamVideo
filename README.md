@@ -24,7 +24,8 @@
 - python3 -m Natsuki
 ```
 
-❓ --**Setting Up**-- :
+🔥 Setting Up 🔥
+
 - 1.) first, add me to your group.
 - 2.) then promote me as admin and give all permissions except anonymous admin.
 - 3.) add [@NatsukiHelper](https://t.me/NatsukiHelper) to your group.
