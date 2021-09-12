@@ -2,7 +2,7 @@
 
 #  Deploy to Heroku  🏃‍♂
 
-<a href="https://heroku.com/deploy?template=https://github.com/Sadew451/StreamVideo"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/StreamVideo)
 
 
 # Deploy On Railway
